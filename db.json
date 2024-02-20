@@ -1,0 +1,20 @@
+{
+  "users": [
+   
+        {
+          "id":1,
+          "username":"sisas",
+          "deck":[2,8,99,110,1]
+        },
+        {
+          "id":2,
+          "username":"nona",
+          "deck":[5,3,23,100,4]
+        },
+        {
+          "id":3,
+          "username":"ganda",
+          "deck":[1,7,12,104,6]
+        }
+  ]
+}
